@@ -14,6 +14,9 @@ Source: "Newtonsoft.Json.dll"; DestDir: "{app}"
 Source: "Newtonsoft.Json.xml"; DestDir: "{app}"
 Source: "websocket-sharp.dll"; DestDir: "{app}"
 Source: "websocket-sharp.xml"; DestDir: "{app}"
+Source: "DotNetZip.dll"; DestDir: "{app}"
+Source: "DotNetZip.pdb"; DestDir: "{app}"
+Source: "DotNetZip.xml"; DestDir: "{app}"
 
 [Icons]
 Name: "{group}\naticord"; Filename: "{app}\naticord.exe"
