@@ -1,10 +1,11 @@
 [Setup]
 AppName=naticord
-AppVersion=0.1.1
+AppVersion=0.2 Beta 2 
 DefaultDirName={userappdata}\naticord
 DefaultGroupName=naticord
 UninstallDisplayIcon={app}\naticord.exe
 OutputDir=naticord\
+OutputBaseFilename=naticord-setup
 
 [Files]
 Source: "Naticord.exe"; DestDir: "{app}"
