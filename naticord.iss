@@ -18,9 +18,6 @@ Source: "Newtonsoft.Json.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "Newtonsoft.Json.xml"; DestDir: "{app}"; Flags: ignoreversion
 Source: "websocket-sharp.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "websocket-sharp.xml"; DestDir: "{app}"; Flags: ignoreversion
-Source: "DotNetZip.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "DotNetZip.pdb"; DestDir: "{app}"; Flags: ignoreversion
-Source: "DotNetZip.xml"; DestDir: "{app}"; Flags: ignoreversion
 
 [Icons]
 ; Create Start Menu shortcut
